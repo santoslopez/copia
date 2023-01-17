@@ -1,0 +1,18 @@
+- name: email
+  image: assets/img/profile/email.webp
+  link: mailto:santos.lopez@galileo.edu
+- name: github
+  image: assets/img/profile/github.webp
+  link: https://github.com/santoslopez
+- name: youtube
+  image: assets/img/profile/youtube.webp
+  link: https://www.youtube.com/channel/UClB9ZMcf2fBwQeuLRFf_FpA
+- name: Goodreads
+  image: assets/img/profile/goodreads.png
+  link: https://goodreads.com/santoslopez
+- name: Scratch MIT
+  image: assets/img/profile/scratch.png
+  link: https://scratch.mit.edu/users/santoslopez/
+- name: Resume
+  image: assets/img/profile/cv.webp
+  link: ../assets/cv/resume.pdf

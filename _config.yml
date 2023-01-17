@@ -1,0 +1,11 @@
+author:
+  name: "Santos López | Desarrollador de Software"
+  email: "santos.lopez@galileo.edu"
+  url: "https://www.santoslopez.ml"
+excerpt_separator: <!--more-->
+
+baseurl: ""
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title
+plugins:
+  - jekyll-feed

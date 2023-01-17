@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://santoslopez.ml/sitemap.xml
+Sitemap: https://santoslopez.ml/atom.xml
+
