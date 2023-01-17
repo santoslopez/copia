@@ -9,7 +9,7 @@ num_excerpts: 5
     }
 </style>
 <br>
-<h2 style="text-align:center" title="herramientas eléctricas">Blog</h2>
+<h2 style="text-align:center" title="Proyectos">Proyectos</h2>
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
 {% endfor %}
