@@ -10,4 +10,4 @@ interesados en el aprendizaje.
 <!--more-->
 
 ### Funcionamiento del proyecto
-{% include youtube.html title="Aprendizaje de idiomas Mayas de Guatemala" url="https://youtu.be/WePk4ObeST8?t=1261" %}
+{% include youtube.html title="Aprendizaje de idiomas Mayas de Guatemala" url="https://www.youtube.com/embed/WePk4ObeST8?start=1261" %}
