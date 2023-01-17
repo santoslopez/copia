@@ -9,14 +9,7 @@ interesados en el aprendizaje.
 
 <!--more-->
 
-###  Consejos para comprar herramientas eléctricas
-**¿Qué marca compro?**
+### Funcionamiento del proyecto
+{% include youtube.html title="Mars" url="https://www.youtube.com/embed/yAj_JhJoNDo" %}
 
-![Santos López](/assets/images/introHerramientas2.webp)<br>
-<code>En Mini Santos López te aconsejamos lo siguiente:</code>
-
-**¿Qué marca te recomendamos comprar?**
-Te sugerimos las siguientes marcas solamente para los usos que te mencionamos.
-
-- **Truper**
-    - ***Línea profesional:*** ...
+![Santos López](/assets/images/introHerramientas2.webp)
