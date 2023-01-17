@@ -8,6 +8,4 @@ Es un software para el aprendizaje de idiomas mayas de Guatemala. Utiliza gamifi
 interesados en el aprendizaje.
 
 <!--more-->
-
-### Funcionamiento del proyecto
-{% include youtube.html title="Aprendizaje de idiomas Mayas de Guatemala" url="https://www.youtube.com/embed/WePk4ObeST8?start=1261" %}
+{% include youtube.html title="Aprendizaje de idiomas Mayas de Guatemala" url="https://www.youtube.com/embed/WePk4ObeST8?start=1261" width="60%" %}
