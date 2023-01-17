@@ -3,7 +3,7 @@ title: "Ferretería La Cadena - Sitio web"
 layout: post
 permalink: /ferreteria-la-cadena-guatemala
 ---
-Sitio web desarrollado para ferretería la cadena <code>[https://www.lacadenagt.com](https://www.lacadenagt.com)</code>
+Sitio web desarrollado para ferretería la cadena [https://www.lacadenagt.com](https://www.lacadenagt.com)
 El propósito del sitio web era dar a conocer un la empresa.
 <!--more-->
 
