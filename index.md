@@ -10,6 +10,3 @@ y actualmente estoy tomando el curso [CS50 is Web Programming with Python and Ja
 
 ### **Cont&aacute;ctame**
 - Para comunicaci&oacute;n sobre Ciencias de la Computaci&oacute;n <santos.lopez@galileo.edu>
-
-#### **Diseño**
-Original por **[Alexandrshy](https://github.com/Alexandrshy/widgets/tree/master/assets_2)**<br>
