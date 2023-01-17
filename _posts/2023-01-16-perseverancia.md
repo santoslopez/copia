@@ -10,6 +10,4 @@ interesados en el aprendizaje.
 <!--more-->
 
 ### Funcionamiento del proyecto
-{% include youtube.html title="Mars" url="https://www.youtube.com/embed/yAj_JhJoNDo" %}
-
-![Santos López](/assets/images/introHerramientas2.webp)
+{% include youtube.html title="Aprendizaje de idiomas Mayas de Guatemala" url="https://youtu.be/WePk4ObeST8?t=1261" %}

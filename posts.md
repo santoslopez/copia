@@ -2,6 +2,7 @@
 title: Blog
 layout: default
 num_excerpts: 5
+center: true
 ---
 <style>
     a{
